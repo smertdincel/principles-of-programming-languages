@@ -1,0 +1,91 @@
+                        A
+                      B C B
+                    C D E D C
+                  D E F G F E D
+                E F G H I H G F E
+              F G H I J K J I H G F
+            G H I J K L M L K J I H G
+          H I J K L M N O N M L K J I H
+        I J K L M N O P Q P O N M L K J I
+      J K L M N O P Q R S R Q P O N M L K J
+    K L M N O P Q R S T U T S R Q P O N M L K
+  L M N O P Q R S T U V W V U T S R Q P O N M L
+M N O P Q R S T U V W X Y X W V U T S R Q P O N M
+                      A
+                    B C B
+                  C D E D C
+                D E F G F E D
+              E F G H I H G F E
+            F G H I J K J I H G F
+          G H I J K L M L K J I H G
+        H I J K L M N O N M L K J I H
+      I J K L M N O P Q P O N M L K J I
+    J K L M N O P Q R S R Q P O N M L K J
+  K L M N O P Q R S T U T S R Q P O N M L K
+L M N O P Q R S T U V W V U T S R Q P O N M L
+                    A
+                  B C B
+                C D E D C
+              D E F G F E D
+            E F G H I H G F E
+          F G H I J K J I H G F
+        G H I J K L M L K J I H G
+      H I J K L M N O N M L K J I H
+    I J K L M N O P Q P O N M L K J I
+  J K L M N O P Q R S R Q P O N M L K J
+K L M N O P Q R S T U T S R Q P O N M L K
+                  *
+                * * *
+              * * * * *
+            * * * * * * *
+          * * * * * * * * *
+        * * * * * * * * * * *
+      * * * * * * * * * * * * *
+    * * * * * * * * * * * * * * *
+  * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * *
+                *
+              * * *
+            * * * * *
+          * * * * * * *
+        * * * * * * * * *
+      * * * * * * * * * * *
+    * * * * * * * * * * * * *
+  * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * *
+              *
+            * * *
+          * * * * *
+        * * * * * * *
+      * * * * * * * * *
+    * * * * * * * * * * *
+  * * * * * * * * * * * * *
+* * * * * * * * * * * * * * *
+            A
+          B C B
+        C D E D C
+      D E F G F E D
+    E F G H I H G F E
+  F G H I J K J I H G F
+G H I J K L M L K J I H G
+          *
+        * * *
+      * * * * *
+    * * * * * * *
+  * * * * * * * * *
+* * * * * * * * * * *
+        A
+      B C B
+    C D E D C
+  D E F G F E D
+E F G H I H G F E
+      *
+    * * *
+  * * * * *
+* * * * * * *
+    A
+  B C B
+C D E D C
+  *
+* * *
+A
